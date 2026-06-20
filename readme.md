@@ -1,4 +1,4 @@
-# C++ and Data Structures & Algorithms  Practice
+# C++ and Data Structures & Algorithms Pattern  Practice
 
 I use this repository to document my journey of learning C++ and Data Structures & Algorithms.
 I created this repo to stay consistent, improve my problem-solving skills, and build a strong foundation for software engineering interviews.
