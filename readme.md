@@ -12,24 +12,11 @@ All implementations are written and maintained by me as I learn.
 
 -----------------------------------------------
 
-## Topics covered
+## Pattern covered
 
-- Arrays  
-- Basic Maths  
-- Object Oriented Programming  
-- Stack  
-- Queue   
-- Greedy Algorithms
-- string 1
-- string 2
-- DSA Sheet 
-- binary tree
-- binary search tree
-- heap
-- hashing
-- trie
-- graph
-- dp
+- LinkedList
+- Sliding Window
+- Tree
 - .....
 
 More topics will be added as I progress.
