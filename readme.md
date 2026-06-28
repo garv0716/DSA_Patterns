@@ -19,36 +19,12 @@ All implementations are written and maintained by me as I learn.
 - Tree
 - .....
 
-More topics will be added as I progress.
+More patterns will be added as I progress.
 
 ----------------------------------------
 
-## Repository structure
-
-Cpp/
-
-01_array/  
-02_basicMaths/  
-03_oops/  
-04_stack/  
-05_queue/  
-06_greedyAlgorithms/  
-07_stl/  
-08_dsaSheet/  
-09_binaryTree
-10_binarySearchTree
-11_heap
-12_hasing
-13_trie
-14_graph
-15_graph02
-16_graph03
-17_graph04
-18_dp
-A2Z_sheet
 
 
-----------------------------------------
 
 ## My approach
 
