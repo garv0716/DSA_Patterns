@@ -480,7 +480,7 @@ void recoverTree(Node* root) {
 
 **Complexity:** Time `O(n)`, Space `O(h)`
 
----
+-----
 
 ## 13. Construct Tree from Preorder + Inorder (LeetCode 105)
 
